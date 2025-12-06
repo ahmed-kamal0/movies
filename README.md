@@ -25,16 +25,20 @@ Built from scratch using **Clean Architecture**, **MVVM**, **Bloc**, and **Dio**
 - **Google Fonts**, **Animate_do**, **Awesome Snackbar**
 
 ## Dependencies
-  flutter_bloc: ^9.1.1
-  dio: ^5.9.0
-  get_it: ^8.2.0
-  equatable: ^2.0.7
-  shared_preferences: ^2.5.3
-  http: ^1.5.0
-  google_fonts: ^6.3.0
-  animate_do: ^3.3.4
-  awesome_snackbar_content: any
-  url_launcher: ^6.3.2
+
+```yaml
+flutter_bloc: ^9.1.1
+dio: ^5.9.0
+get_it: ^8.2.0
+equatable: ^2.0.7
+shared_preferences: ^2.5.3
+http: ^1.5.0
+google_fonts: ^6.3.0
+animate_do: ^3.3.4
+awesome_snackbar_content: any
+url_launcher: ^6.3.2
+```
+
   
  ## Installing
 Open Terminal and Clone the Repo
